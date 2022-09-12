@@ -1,5 +1,6 @@
 h1 {
-  font-family: Arial;
+  font-family: "Lucida Console", "Courier New", monospace;
+  color: rgb(44, 0, 59)
 }
 
 h4 {
@@ -9,10 +10,12 @@ h4 {
 ul,
 ol {
   margin-top: 0;
+  font-size: 28px;
+  color: rgb(58, 55, 145)
 }
 
 .copyright {
-  font-family: Arial;
-  font-size: 9px;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 40px;
   font-style: italic;
 }
